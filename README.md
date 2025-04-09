@@ -55,7 +55,7 @@ Cool Plugins by [hi12167pies](https://pies.cf/) / [Discord](https://discord.gg/Y
 
 server credit list (name / ip / status)   
 last check: dec. 8, 2024
-(apr. 9, 2024, added mushmc without checking other servers status)
+(apr. 9, 2024, added mushmc and presentcraft without checking other servers status)
 
 mcplayhd / mcplayhd.net / online   
 greev / greev.eu / online   
@@ -74,6 +74,7 @@ mustpvp / mustpvp.pl / online
 wavemc / wavemc.com.br / online  
 mushmc / mushmc.com.br / online  
 mcplaysd / mcplaysd.pies.cf / down   
+presentcraft / presentcraft.eu / down   
 probridge / probridge.mcserv.me / down  
 rporibdge / rporibdge.mine.fun / down   
 bridgersilk / bridgersilk.tk / down   
